@@ -1,4 +1,4 @@
-##Ecommerce project to order things online were you can add or delete items and do payment using stripe.
+## Ecommerce project to order things online were you can add or delete items and do payment using stripe.
 
 
 
